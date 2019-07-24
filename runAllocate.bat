@@ -1,0 +1,2 @@
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe C:\Users\gscdp2352\Desktop\AllocateReportTool\UploadTool\AllocateToolUploadTW-master\AllocateTool\AllocateTool.csproj /property:Configuration="Release"
+pause
